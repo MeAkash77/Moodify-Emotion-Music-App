@@ -1,7 +1,7 @@
 # **Moodify - Emotion-Based Music Recommendation App**
 
 With the rise of personalized music streaming services, there is a growing need for systems that can recommend music based on users' emotional states.
-Realizing this need, **Moodify** is being developed by [Son Nguyen](https://github.com/hoangsonww) in 2024 to provide personalized music recommendations based on users' detected emotions.
+Realizing this need, **Moodify** is being developed by [Akash](https://github.com/MeAkash77) in 2024 to provide personalized music recommendations based on users' detected emotions.
 
 The **Moodify** project is an integrated emotion-based music recommendation system that combines frontend, backend, AI/ML models, and data analytics to provide personalized music recommendations based on user emotions. The application analyzes text, speech, or facial expressions and suggests music that aligns with the detected emotions.
 
@@ -12,11 +12,11 @@ Supporting both desktop and mobile platforms, **Moodify** offers a seamless user
 </p>
 
 > ⚠️ **Impersonation Alert**  
-> Be aware that there may be fake accounts or handles (current known impersonator: **@MoodifyAPP**) claiming to be me and soliciting investments or personal information. **I am only “Son Nguyen” at [hoangsonww on GitHub](https://github.com/hoangsonww)** and on any other platforms linked here in this repo.
+> Be aware that there may be fake accounts or handles (current known impersonator: **@MoodifyAPP**) claiming to be me and soliciting investments or personal information. **I am only “Son Nguyen” at [Akash on Github](https://github.com/MeAkash77)** and on any other platforms linked here in this repo.
 >
 > • Do *not* send money or personal data to anyone else.  
 > • Always verify you’re interacting with one of the links in this README.
-> • If you have any questions or concerns, please [contact me](mailto:hoangson091104@gmail.com) directly, before taking any action.
+> • If you have any questions or concerns, please [contact me](mailto:iakshu845@gmail.com) directly, before taking any action.
 
 ## **Table of Contents**
 
