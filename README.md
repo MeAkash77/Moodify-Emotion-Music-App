@@ -72,8 +72,6 @@ Moodify provides personalized music recommendations based on users' emotional st
 
 The Moodify app is currently live and deployed on Vercel. You can access the live app using the following link: [Moodify](https://moodify-app.vercel.app).
 
-Feel free to also visit the backend at [Moodify Backend API](https://moodify-emotion-music-app.onrender.com/).
-
 For your information, the front-end's production (deployment) branch is `frontend-deployment/production`, and the backend's production (deployment) branch is `main-deployment-branch/production`.
 
 > **Disclaimer:** The backend of Moodify is currently hosted with the **Free Tier** of Render, so it may take a few seconds to load initially. Additionally, it may spin down after a period of inactivity or high traffic, so please be patient if the backend takes a few seconds to respond.
@@ -487,7 +485,7 @@ Or, you can download the pre-trained models from the Google Drive links provided
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hoangsonww/Moodify-Emotion-Music-App.git
+   git clone https://github.com/MeAkash77/Moodify-Emotion-Music-App.git
    ```
 
 2. **Navigate to the AI/ML directory:**
@@ -657,15 +655,6 @@ Finally, set up the frontend to interact with the backend.
 </p>
 
 <h2 id="-backend-apis-documentation">🚀 Backend APIs Documentation</h2>
-
-Our backend APIs are all well-documented using Swagger UI and Redoc. You can access the API documentation at the following URLs:
-- **Swagger UI**: `https://moodify-emotion-music-app.onrender.com/swagger`.
-- **Redoc**: `https://moodify-emotion-music-app.onrender.com/redoc`.
-- Note that the backend server may spin down after a period of inactivity, so it may take a few seconds to load initially.
-
-Alternatively, you can run the backend server locally and access the API documentation at the following endpoints:
-- **Swagger UI**: `http://127.0.0.1:8000/swagger`.
-- **Redoc**: `http://127.0.0.1:8000/redoc`.
 
 Regardless of your choice, you should see the following API documentation if everything is running correctly:
 
@@ -967,16 +956,5 @@ This guide enables you to view, test, and utilize the API.
 - If you use or build upon this project, please provide the necessary attribution and references.
 
 <h2 id="-contact">📧 Contact</h2>
-
-- Feel free to contact me at [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com) for any questions or feedback.
-- You can also connect with me on [LinkedIn](https://www.linkedin.com/in/hoangsonw/).
-
----
-
-**Happy Coding and Vibin'! 🎶**
-
-**Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.**
-
----
 
 [🔝 Back to Top](#moodify---emotion-based-music-recommendation-app)
