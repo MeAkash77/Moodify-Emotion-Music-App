@@ -70,7 +70,7 @@ Moodify provides personalized music recommendations based on users' emotional st
 
 <h2 id="-live-frontend-demo">🌐 Live Deployment</h2>
 
-The Moodify app is currently live and deployed on Vercel. You can access the live app using the following link: [Moodify](https://moodify-app.vercel.app).
+The Moodify app is currently live and deployed on Vercel. You can access the live app using the following link: [Moodify](https://moodify-emotion-music-app-pi.vercel.app/).
 
 For your information, the front-end's production (deployment) branch is `frontend-deployment/production`, and the backend's production (deployment) branch is `main-deployment-branch/production`.
 
